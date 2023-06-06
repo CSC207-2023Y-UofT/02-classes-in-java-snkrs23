@@ -162,7 +162,7 @@ public class Activity_2 implements Comparable<Silly>{
 
         // Hint: to compare strings, we need to use .equals()
         //       e.g. s1.equals(s2)
-        return other.equals(o);
+        return this.name.equals(other.name);
     }
 
     /**
