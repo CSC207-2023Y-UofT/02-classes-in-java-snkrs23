@@ -11,9 +11,8 @@ import java.util.Arrays;
  * relevant readings for each task.
  */
 
-public class Activity_2 implements Comparable<Silly>{
+public class Silly implements Comparable<Silly>{
     /**
-     * Silly
      * 1. Java has variables known as "static" variables.
      * These are variables that exist in every instance of a class,
      * and which have the same value across all instances.
